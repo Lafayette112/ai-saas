@@ -33,7 +33,7 @@ export const LandingHero = () => {
             </div>
 
             <div className="text-sm sm:text-xl font-light text-zinc-400">
-                Create content using AI 10x faster.
+                All-in-one platform to generate AI content 10x faster.
             </div>
 
             <div>
